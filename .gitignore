@@ -1,1 +1,4 @@
+*.log
+*.sql
+*.sqlite
 *.code-workspace
